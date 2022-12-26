@@ -1,7 +1,7 @@
 ### Hi there  soy Carolina👋
 
 
-Desarrollador Fullstack JavaScript, apasionado por el Front-end. Realicé un bootcamp de más de 800 hs. de estudio intensivo que me preparó para desempeñarme como desarrollador Fullstack.
+Desarrollador Fullstack JavaScrip. Realicé un bootcamp de más de 800 hs. de estudio intensivo que me preparó para desempeñarme como desarrollador Fullstack.
 
 🧠 Habilidades:
 💻 JavaScript, React
