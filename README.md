@@ -1,5 +1,16 @@
 ### Hi there  soy Carolina👋
 
+
+Desarrollador Fullstack JavaScript, apasionado por el Front-end. Realicé un bootcamp de más de 800 hs. de estudio intensivo que me preparó para desempeñarme como desarrollador Fullstack.
+
+🧠 Habilidades:
+💻 JavaScript, React
+⚙️ Nodo.JS, Express.Js
+👁️ Material-UI, CSS, Sass, Bootstrap
+💽 PostgreSQL, MongoDB, Firebase
+💬 Git, SCRUM, Slack, Trello
+Actualmente estoy buscando mi primera oportunidad que ayude a mi desarrollo personal. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo.
+
 <!--
 **carobarragan/carobarragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
