@@ -11,7 +11,7 @@ Desarrolladora Fullstack JavaScrip. Realicé un bootcamp de más de 800 hs. de e
 💬 Git, SCRUM, Slack, Trello
 Actualmente estoy buscando mi primera oportunidad que ayude a mi desarrollo personal. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo.
 
-No dudes en consultarme caro_barragan@live.com.ar
+📫Cómo contactarme: caro_barragan@live.com.ar
 
 <!--
 **carobarragan/carobarragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
