@@ -1,3 +1,7 @@
+
+
+![Linkedin Henry STUDENTS-01](https://user-images.githubusercontent.com/104798095/210475983-16aec2bf-8cd8-4102-8a60-03aa3496a2ba.png)
+
 Hola 👋 soy Carolina
 
 
@@ -27,3 +31,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
