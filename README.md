@@ -18,7 +18,7 @@ Actualmente estoy buscando mi primera oportunidad que ayude a mi desarrollo pers
 📫Cómo contactarme: caro_barragan@live.com.ar
 
 
-![Linkedin Henry STUDENTS-01](https://user-images.githubusercontent.com/104798095/210475983-16aec2bf-8cd8-4102-8a60-03aa3496a2ba.png)
+
 
 <!--
 **carobarragan/carobarragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
