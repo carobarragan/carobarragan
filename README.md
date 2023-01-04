@@ -1,6 +1,6 @@
 
 
-![Linkedin Henry STUDENTS-01](https://user-images.githubusercontent.com/104798095/210475983-16aec2bf-8cd8-4102-8a60-03aa3496a2ba.png)
+
 
 Hola 👋 soy Carolina
 
@@ -16,6 +16,9 @@ Desarrolladora Fullstack JavaScrip. Realicé un bootcamp de más de 800 hs. de e
 Actualmente estoy buscando mi primera oportunidad que ayude a mi desarrollo personal. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo.
 
 📫Cómo contactarme: caro_barragan@live.com.ar
+
+
+![Linkedin Henry STUDENTS-01](https://user-images.githubusercontent.com/104798095/210475983-16aec2bf-8cd8-4102-8a60-03aa3496a2ba.png)
 
 <!--
 **carobarragan/carobarragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
